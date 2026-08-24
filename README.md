@@ -5,8 +5,7 @@
 Este repositório apresenta um template de página de login simples, porém completo, desenvolvido com as tecnologias fundamentais de frontend: HTML5 e CSS3. O objetivo principal é demonstrar a aplicação de princípios de design responsivo, acessibilidade básica e boas práticas de estilização para construir uma interface de usuário coesa e funcional. O projeto serve como uma base sólida para entender como transformar um design visual em uma experiência web interativa e adaptável.
 
 <img src="https://github.com/ViniFerAlbuquerque/template-login-figma/blob/main/assets/template-login-figma.png?raw=true"> <br>
-[template-login-figma-html](template-login-figma/index.html
-)
+[template-login-figma-html](template-login-figma/index.html)
 
 ## 🎯 Objetivos Técnicos e Aprendizados
 
